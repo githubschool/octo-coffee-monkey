@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck day2!"
+title: "Welcome to our slide deck day3!"
 ---
 
 
