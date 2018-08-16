@@ -4,7 +4,8 @@ title: "Welcome to our slide deck!"
 ---
 
 Caption here
-Testing GitHub now 08/15/2018
 
+New0815-julrich58West new branch
+=======
 ![constructocat](https://octodex.github.com/images/constructocat2.jpg)
 {: .center}
